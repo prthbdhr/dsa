@@ -1,5 +1,5 @@
 /**
- *  Leetcode #1423 | https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+ *  Leetcode #1423 | https://leetcode.com/problems/subarrays-with-k-different-integers/description
  */
 
 public  class SubarrayswithKDifferentIntegers {
