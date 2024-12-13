@@ -20,7 +20,7 @@ public class FindScoreArrayAfterMarkingAllElements {
         boolean[] visited = new boolean[n];
 
         while (!pq.isEmpty()) {
-            int[] cell = pq.poll();
+            int[] cell = pq.poll(
             int val = cell[0];
             int pos = cell[1];
 
