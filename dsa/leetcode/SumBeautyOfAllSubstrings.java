@@ -2,7 +2,7 @@
  *  #Leetcode 1781 | Sum of Beauty of All Substrings
  */
 
-public class SumBeautyOf AllSubstrings {
+public class SumBeautyOfAllSubstrings {
     private final char a = 'a';
 
     public int beautySum(String s) {
