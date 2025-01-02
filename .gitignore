@@ -27,7 +27,4 @@ replay_pid*
 *.xml
 *.iml
 .idea/.gitignore
-
-
-*.xml
-.idea
+.idea/misc.xml
