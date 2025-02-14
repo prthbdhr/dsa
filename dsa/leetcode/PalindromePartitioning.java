@@ -31,9 +31,9 @@ public class PalindromePartitioning {
     }
 
     private boolean isPalindrome(String s, int l, int r) {
+
         while (l < r) {
             if (s.charAt(l) != s.charAt(r)) return false;
-
             l++;
             r--;
         }
