@@ -26,6 +26,7 @@ class DisjointSet {
     public void unionByRank(int u, int v) {
         int ulp_u = findUPar(u);
         int ulp_v = findUPar(v);
+
         if (ulp_u == ulp_v) return;
 
         if (rank.get(ulp_u) < rank.get(ulp_v)) {
