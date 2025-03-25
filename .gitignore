@@ -24,5 +24,6 @@ hs_err_pid*
 replay_pid*
 .idea
 *.xml
-workspace.xml]
+workspace.xml
 .idea/*
+.gitignore
