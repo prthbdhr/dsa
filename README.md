@@ -16,6 +16,7 @@ Repository for Data Structures &amp; Algorithms
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
@@ -49,4 +50,12 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
