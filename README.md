@@ -24,6 +24,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
@@ -39,6 +40,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
@@ -53,11 +55,13 @@ Repository for Data Structures &amp; Algorithms
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 ## Hash Table
 |  |
