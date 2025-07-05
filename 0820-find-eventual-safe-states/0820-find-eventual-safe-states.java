@@ -1,49 +1,48 @@
 class Solution {
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        
+        int v = graph.length;
 
-     public List<Integer> eventualSafeNodes(int[][] graph) {
+        int[] indegree = new int[v];
 
-        int n = graph.length;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        boolean[] visited = new boolean[n];
+        for (int i = 0; i < v; i++) adj.add(new ArrayList<>());
 
-        boolean[] inStack = new boolean[n];
+        for (int i = 0; i < v; i++) {
 
-        for (int i = 0; i < n; i++) {
-            dfs(graph, i, visited, inStack);
+            for (int it: graph[i]) {
+                adj.get(it).add(i);
+
+                indegree[i]++;
+            }
+        }
+
+        Queue<Integer> qu  = new LinkedList<>();
+
+        for (int i = 0; i < v; i++) {
+
+            if (indegree[i] == 0) qu.add(i);
         }
 
         List<Integer> res = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            if (!inStack[i]) {
-                res.add(i);
+        while (!qu.isEmpty()) {
+
+            int node = qu.poll();
+
+            res.add(node);
+
+            for (int it: adj.get(node)) {
+
+                indegree[it]--;
+
+                if (indegree[it] == 0) qu.add(it);
             }
         }
 
+        Collections.sort(res);
+        
         return res;
-     }
-
-     private boolean dfs (int[][] graph, int node, boolean[] visited, boolean[] inStack) {
-
-        if (inStack[node]) {
-            return true;
-        }
-
-        if (visited[node]) {
-            return false;
-        }
-
-        visited[node] = true;
-        inStack[node] = true;
-
-        for (int neighbor: graph[node]) {
-            if (dfs(graph, neighbor, visited, inStack)) {
-                return true;
-            }
-        }
-
-        inStack[node] = false;
-            
-        return false;
-     }
+    }
 }
