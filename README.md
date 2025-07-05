@@ -29,6 +29,7 @@ Repository for Data Structures &amp; Algorithms
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -44,6 +45,7 @@ Repository for Data Structures &amp; Algorithms
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
@@ -58,11 +60,13 @@ Repository for Data Structures &amp; Algorithms
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 ## Hash Table
 |  |
 | ------- |
