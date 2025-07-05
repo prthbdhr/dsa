@@ -8,6 +8,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ Repository for Data Structures &amp; Algorithms
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 ## Matrix
@@ -34,12 +36,14 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -56,14 +60,20 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
