@@ -14,6 +14,7 @@ Repository for Data Structures &amp; Algorithms
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prthbdhr/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Repository for Data Structures &amp; Algorithms
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -89,6 +91,7 @@ Repository for Data Structures &amp; Algorithms
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Counting
 |  |
 | ------- |
@@ -114,4 +117,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
