@@ -7,6 +7,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/prthbdhr/dsa/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
@@ -23,6 +24,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/prthbdhr/dsa/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
