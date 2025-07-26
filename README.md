@@ -7,6 +7,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
+| [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -20,6 +21,7 @@ Repository for Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
 ## Breadth-First Search
