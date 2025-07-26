@@ -6,6 +6,7 @@ Repository for Data Structures &amp; Algorithms
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
@@ -21,6 +22,7 @@ Repository for Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
@@ -41,6 +43,7 @@ Repository for Data Structures &amp; Algorithms
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
