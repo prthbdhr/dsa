@@ -128,4 +128,12 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
