@@ -139,10 +139,15 @@ Repository for Data Structures &amp; Algorithms
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prthbdhr/dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prthbdhr/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prthbdhr/dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
