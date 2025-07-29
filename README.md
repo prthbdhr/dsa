@@ -134,6 +134,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/prthbdhr/dsa/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
