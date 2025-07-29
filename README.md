@@ -88,6 +88,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
+| [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -131,9 +132,14 @@ Repository for Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prthbdhr/dsa/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
