@@ -23,6 +23,7 @@ Repository for Data Structures &amp; Algorithms
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/prthbdhr/dsa/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/prthbdhr/dsa/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
@@ -96,6 +97,7 @@ Repository for Data Structures &amp; Algorithms
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
@@ -150,4 +152,8 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prthbdhr/dsa/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
