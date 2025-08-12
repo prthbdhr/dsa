@@ -29,6 +29,7 @@ Repository for Data Structures &amp; Algorithms
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/prthbdhr/dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Breadth-First Search
 |  |
 | ------- |
