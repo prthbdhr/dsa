@@ -92,6 +92,7 @@ Repository for Data Structures &amp; Algorithms
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/prthbdhr/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/prthbdhr/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -101,6 +102,7 @@ Repository for Data Structures &amp; Algorithms
 | [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/prthbdhr/dsa/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/prthbdhr/dsa/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/prthbdhr/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Counting
@@ -114,6 +116,7 @@ Repository for Data Structures &amp; Algorithms
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/prthbdhr/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
