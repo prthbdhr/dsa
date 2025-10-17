@@ -18,8 +18,11 @@ public class LongestRepeatingCharacterReplacement {
             maxFreq = Math.max(maxFreq, charMap[rightChar - 'A']);
 
             int len = right - left + 1;
+
             int changeable = len - maxFreq;
+
             while (changeable > k){
+
                 char leftChar = s.charAt(left);
 
                 charMap[leftChar - 'A']--;
