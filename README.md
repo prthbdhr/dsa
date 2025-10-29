@@ -12,6 +12,7 @@ Repository for Data Structures &amp; Algorithms
 | [0120-triangle](https://github.com/prthbdhr/dsa/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -127,6 +128,7 @@ Repository for Data Structures &amp; Algorithms
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prthbdhr/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -162,5 +164,25 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
 >>>>>>> dsa
