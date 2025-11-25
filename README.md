@@ -98,6 +98,7 @@ Repository for Data Structures &amp; Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/prthbdhr/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -160,6 +161,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prthbdhr/dsa/tree/master/0050-powx-n) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
