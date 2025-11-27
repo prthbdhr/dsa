@@ -24,6 +24,7 @@ Repository for Data Structures &amp; Algorithms
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Repository for Data Structures &amp; Algorithms
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
