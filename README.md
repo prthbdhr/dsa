@@ -45,6 +45,7 @@ Repository for Data Structures &amp; Algorithms
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
@@ -67,6 +68,7 @@ Repository for Data Structures &amp; Algorithms
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
@@ -77,6 +79,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
@@ -85,6 +88,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
