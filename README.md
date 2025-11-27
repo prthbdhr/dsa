@@ -23,6 +23,7 @@ Repository for Data Structures &amp; Algorithms
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Repository for Data Structures &amp; Algorithms
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/prthbdhr/dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Breadth-First Search
 |  |
@@ -56,6 +58,7 @@ Repository for Data Structures &amp; Algorithms
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prthbdhr/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
