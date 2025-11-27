@@ -1,43 +1,49 @@
-class Solution {
+import java.util.Arrays;
 
+class Solution {
     private static final int MOD = 1_000_000_007;
 
-    int m, n, k;
-    int[][] grid;
-    long[][][] dp; // -1 => uncomputed
-
     public int numberOfPaths(int[][] grid, int k) {
-        
-        this.grid = grid;
-        this.k = k;
-        this.m = grid.length;
-        this.n = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
 
-        this.dp = new long[m][n][k];
-
-        // Base cell (0,0)
-        dp[0][0][grid[0][0] % k] = 1;
+        // prev -> dp values for previous row
+        // curr -> dp values for current row being computed
+        long[][] prev = new long[n][k];
+        long[][] curr = new long[n][k];
 
         for (int i = 0; i < m; i++) {
+            // reset curr for the new row
+            for (int x = 0; x < n; x++) {
+                Arrays.fill(curr[x], 0L);
+            }
 
             for (int j = 0; j < n; j++) {
+                int val = ((grid[i][j] % k) + k) % k;
 
-                if (i == 0 && j == 0) continue;
-
-                int val = grid[i][j] % k;
+                if (i == 0 && j == 0) {
+                    // base cell
+                    curr[j][val] = 1;
+                    continue;
+                }
 
                 for (int rem = 0; rem < k; rem++) {
-                    
-                    int prev = (rem - val + k) % k;
+                    int prevMod = (rem - val + k) % k;
 
-                    long fromTop  = (i > 0) ? dp[i - 1][j][prev] : 0;
-                    long fromLeft = (j > 0) ? dp[i][j - 1][prev] : 0;
+                    long fromTop = (i > 0) ? prev[j][prevMod] : 0L;
+                    long fromLeft = (j > 0) ? curr[j - 1][prevMod] : 0L;
 
-                    dp[i][j][rem] = (fromTop + fromLeft) % MOD;
+                    curr[j][rem] = (fromTop + fromLeft) % MOD;
                 }
             }
+
+            // move current row into prev for next iteration
+            long[][] tmp = prev;
+            prev = curr;
+            curr = tmp; // reuse the array buffer (we'll zero it at loop start)
         }
 
-       return (int) dp[m - 1][n - 1][0];
+        // after last row processed, prev holds the final row
+        return (int) prev[n - 1][0];
     }
 }
