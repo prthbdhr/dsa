@@ -14,41 +14,30 @@ class Solution {
         this.n = grid[0].length;
 
         this.dp = new long[m][n][k];
+
+        // Base cell (0,0)
+        dp[0][0][grid[0][0] % k] = 1;
+
         for (int i = 0; i < m; i++) {
 
             for (int j = 0; j < n; j++) {
 
-                Arrays.fill(dp[i][j], -1L);
+                if (i == 0 && j == 0) continue;
+
+                int val = grid[i][j] % k;
+
+                for (int rem = 0; rem < k; rem++) {
+                    
+                    int prev = (rem - val + k) % k;
+
+                    long fromTop  = (i > 0) ? dp[i - 1][j][prev] : 0;
+                    long fromLeft = (j > 0) ? dp[i][j - 1][prev] : 0;
+
+                    dp[i][j][rem] = (fromTop + fromLeft) % MOD;
+                }
             }
         }
 
-        return (int) solve(m - 1, n - 1, 0);
-    }
-
-    private long solve(int r, int c, int rem) {
-
-        if (r < 0 || c < 0) return 0;
-
-        long cached = dp[r][c][rem];
-
-        if (cached != -1) return cached;
-
-        int val = ((grid[r][c] % k) + k) % k;
-
-        if (r == 0 && c == 0) {
-
-            dp[r][c][rem] = (rem == val) ? 1L : 0L;
-
-            return dp[r][c][rem];
-        }
-
-        int prev = (rem - val + k) % k;
-
-        long waysFromTop = solve(r - 1, c, prev);
-        long waysFromleft = solve(r, c- 1, prev);
-
-        long ans = (waysFromTop + waysFromleft) % MOD;
-
-        return dp[r][c][rem] = ans;
+       return (int) dp[m - 1][n - 1][0];
     }
 }
