@@ -22,6 +22,7 @@ Repository for Data Structures &amp; Algorithms
 | [1171-shortest-path-in-binary-matrix](https://github.com/prthbdhr/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -108,6 +109,7 @@ Repository for Data Structures &amp; Algorithms
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
@@ -135,6 +137,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
