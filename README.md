@@ -24,6 +24,7 @@ Repository for Data Structures &amp; Algorithms
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
@@ -128,6 +129,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Repository for Data Structures &amp; Algorithms
 | [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prthbdhr/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -199,5 +202,9 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
 >>>>>>> dsa
