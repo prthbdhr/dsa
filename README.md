@@ -76,6 +76,7 @@ Repository for Data Structures &amp; Algorithms
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/prthbdhr/dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -206,5 +207,9 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/prthbdhr/dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
 >>>>>>> dsa
