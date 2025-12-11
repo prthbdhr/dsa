@@ -12,6 +12,7 @@ Repository for Data Structures &amp; Algorithms
 | [0120-triangle](https://github.com/prthbdhr/dsa/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -21,7 +22,13 @@ Repository for Data Structures &amp; Algorithms
 | [1171-shortest-path-in-binary-matrix](https://github.com/prthbdhr/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/prthbdhr/dsa/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +38,7 @@ Repository for Data Structures &amp; Algorithms
 | [0213-house-robber-ii](https://github.com/prthbdhr/dsa/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/prthbdhr/dsa/tree/master/1063-best-sightseeing-pair) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/prthbdhr/dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Breadth-First Search
 |  |
@@ -41,6 +49,7 @@ Repository for Data Structures &amp; Algorithms
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/prthbdhr/dsa/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
@@ -55,6 +64,7 @@ Repository for Data Structures &amp; Algorithms
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/prthbdhr/dsa/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,16 +72,19 @@ Repository for Data Structures &amp; Algorithms
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/prthbdhr/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/prthbdhr/dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/prthbdhr/dsa/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/prthbdhr/dsa/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
@@ -80,6 +93,7 @@ Repository for Data Structures &amp; Algorithms
 | ------- |
 | [0207-course-schedule](https://github.com/prthbdhr/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prthbdhr/dsa/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/prthbdhr/dsa/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/prthbdhr/dsa/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
@@ -97,7 +111,11 @@ Repository for Data Structures &amp; Algorithms
 | [0424-longest-repeating-character-replacement](https://github.com/prthbdhr/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prthbdhr/dsa/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/prthbdhr/dsa/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -115,6 +133,7 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/prthbdhr/dsa/tree/master/0721-accounts-merge) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,11 +143,15 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/prthbdhr/dsa/tree/master/0966-binary-subarrays-with-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/prthbdhr/dsa/tree/master/1590-make-sum-divisible-by-p) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/prthbdhr/dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/prthbdhr/dsa/tree/master/1753-path-with-minimum-effort) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,9 +181,44 @@ Repository for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prthbdhr/dsa/tree/master/0050-powx-n) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/prthbdhr/dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/prthbdhr/dsa/tree/master/3623-count-number-of-trapezoids-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prthbdhr/dsa/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prthbdhr/dsa/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/prthbdhr/dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/prthbdhr/dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/prthbdhr/dsa/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
 >>>>>>> dsa
