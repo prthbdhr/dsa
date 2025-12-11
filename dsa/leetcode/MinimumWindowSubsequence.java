@@ -17,7 +17,7 @@ public class MinimumWindowSubsequence {
 
         int minLen = (int) (1e9);
 
-        for ( ; s1Index < n; s1Index++) {
+        while (s1Index < n) {
 
             if(s1.charAt(s1Index) == s2.charAt(s2Index)) {
 
@@ -49,6 +49,7 @@ public class MinimumWindowSubsequence {
                     }
                 }
             }
+            s1Index++;
         }
 
         return minWindow;
